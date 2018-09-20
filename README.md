@@ -4,6 +4,8 @@
 
 ***
 
+<p align="center"><h2 align="center">Screenshots</h2></p>
+
 <p align="center"> <img src="https://github.com/taslimy/dev-theme/blob/master/screenshots/homepage.png" /> </p>
 
 <p align="center"> <img src="https://github.com/taslimy/dev-theme/blob/master/screenshots/projectspage.png" /> </p>
