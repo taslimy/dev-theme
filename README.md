@@ -14,5 +14,5 @@
 
 <p align="center"> <img src="https://github.com/taslimy/dev-theme/blob/master/screenshots/projectdescription.png" /> </p>
 
-<p align="center"> Theme By <a href="https://taslim.me/">Taslim Yakub.</a> | Demo Images provided by <a href="taslim.me">Unsplash.</a> | Icons Provided by <a href="taslim.me">Font Awesome.</a> </p>
+<p align="center"> Theme By <a href="https://taslim.me/">Taslim Yakub.</a> | Demo Images provided by <a href="https://unsplash.com/">Unsplash .</a> | Icons Provided by <a href="https://fontawesome.com">Font Awesome.</a> </p>
 
