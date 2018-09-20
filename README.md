@@ -13,7 +13,7 @@ Projects Page
 ![alt text](https://github.com/taslimy/dev-theme/blob/master/screenshots/projectspage.png)
 
 Bio & Contact Page
-![alt text](https://github.com/taslimy/dev-theme/blob/master/screenshots/bioandcontact.pnge)
+![alt text](https://github.com/taslimy/dev-theme/blob/master/screenshots/bioandcontact.png)
 
 Project Description Page
 ![alt text](https://github.com/taslimy/dev-theme/blob/master/screenshots/projectdescription.png)
