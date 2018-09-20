@@ -1,8 +1,6 @@
-<p align="center">
-    <h2 align="center">Simple Minimalist Dev Theme - <a href="https://taslim.me/projects/dev-theme/">Demo</a>.
+<p align="center"><h2 align="center">Simple Minimalist Dev Theme - <a href="https://taslim.me/projects/dev-theme/">Demo</a>.</p>
 
-<p align="center"This is a free flexbox theme for developers to use to showcase there work. 
-This theme is build with pure HTML and CSS (flexbox). No JavaScript.</p>
+<p align="center">This is a free minimalist flexbox theme for developers to use to showcase there work. This theme is built with pure HTML and CSS (flexbox). This theme is also completed with mobile responsiveness. No JavaScript.</p>
 
 ***
 
