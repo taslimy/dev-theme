@@ -3,7 +3,7 @@ This is a free flexbox theme for developers to use to showcase there work.
 This theme is build with pure HTML and CSS (flexbox). No JavaScript.
 
 # Live Demo
-Preview a <a href="https://taslim.me/projects/dev-theme/">Live Demo</a>
+Preview a <a targer="_blank" href="https://taslim.me/projects/dev-theme/">Live Demo</a>
 
 # Pictures
 Homepage
