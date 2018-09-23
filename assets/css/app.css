@@ -49,9 +49,6 @@ section {
     overflow: hidden;
 }
 
-p {}
-
-
 /*---------- LARGE BUTTON ----------*/
 
 .buttonLink a {
@@ -426,11 +423,6 @@ footer nav li.current a {
 /*---------- MEDIA QUERIES----------*/
 
 @media screen and (max-width: 1200px) {
-    .profileImg {
-        width: 480px;
-        height: 480px;
-        align-self: center;
-    }
     footer {
         width: auto;
         flex-direction: column;
@@ -541,9 +533,6 @@ footer nav li.current a {
         justify-content: space-around;
         width: auto;
     }
-    #webdev {
-        display: flex;
-    }
     container {
         flex-direction: column;
     }
@@ -574,9 +563,12 @@ footer nav li.current a {
     footer {
         width: auto;
     }
-    #webdev {
-        display: flex;
+
+    footer nav {
+        align-items: baseline;
+        flex-direction: column;
     }
+
 }
 
 @media screen and (max-width: 375px) {
@@ -591,9 +583,7 @@ footer nav li.current a {
         align-items: baseline;
         flex-direction: column;
     }
-    #webdev {
-        display: flex;
-    }
+    
 }
 
 @media screen and (min-width: 42em) and (max-width: 60em) {
